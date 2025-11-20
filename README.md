@@ -14,7 +14,7 @@ This project collects data from web sources using automated web scraping, proces
 
 ---
 
-## Repository structure
+## Structure
 
 ```
 WebScrap-Data-Analytics/
